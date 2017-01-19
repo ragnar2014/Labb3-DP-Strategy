@@ -1,0 +1,24 @@
+﻿Build started 2015-02-17 17:58:15.
+     1>Project "C:\Users\David\Dropbox\Programvaruteknik\Designmönster\Labb3- Strategy\Labb3\Labb3\Labb3.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt BakingRecepyManager.cpp run.cpp
+         BakingRecepyManager.cpp
+     1>c:\users\david\dropbox\programvaruteknik\designmönster\labb3- strategy\labb3\labb3\bakingrecepymanager.cpp(42): warning C4018: '<=' : signed/unsigned mismatch
+     1>c:\users\david\dropbox\programvaruteknik\designmönster\labb3- strategy\labb3\labb3\bakingrecepymanager.cpp(81): warning C4018: '<' : signed/unsigned mismatch
+         Generating Code...
+     1>c:\users\david\dropbox\programvaruteknik\designmönster\labb3- strategy\labb3\labb3\bakingrecepymanager.cpp(67): warning C4715: 'BakingRecepyManager::getNextBakingRecepy' : not all control paths return a value
+         Skipping... (no relevant changes detected)
+         run.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\David\Dropbox\Programvaruteknik\Designmönster\Labb3- Strategy\Labb3\Debug\Labb3.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\David\Dropbox\Programvaruteknik\Designmönster\Labb3- Strategy\Labb3\Debug\Labb3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\David\Dropbox\Programvaruteknik\Designmönster\Labb3- Strategy\Labb3\Debug\Labb3.lib" /MACHINE:X86 Debug\BakingRecepy.obj
+         Debug\BakingRecepyManager.obj
+         "Debug\Bröd.obj"
+         Debug\Kladdkaka.obj
+         Debug\Pizza.obj
+         Debug\run.obj
+         Labb3.vcxproj -> C:\Users\David\Dropbox\Programvaruteknik\Designmönster\Labb3- Strategy\Labb3\Debug\Labb3.exe
+     1>Done Building Project "C:\Users\David\Dropbox\Programvaruteknik\Designmönster\Labb3- Strategy\Labb3\Labb3\Labb3.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:07.03

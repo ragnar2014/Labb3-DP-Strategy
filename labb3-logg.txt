@@ -1,0 +1,7 @@
+1. BakingRecepy manager Läser skafferi.dat, pushar in till i egen vector för att jämföra med vector i BakingRecepy. set_intersection lagrar alla 
+ingredienser som matchar i ny vector. Om antalet element i den vectorn stämmer med antal element i BakingRecepy skickas true till Bakery. 
+
+
+Skriva egen exceptionklass
+
+Testa med en pekare i BakingRecepyMAnager 
